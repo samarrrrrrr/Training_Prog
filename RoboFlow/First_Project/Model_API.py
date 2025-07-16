@@ -3,7 +3,7 @@ import json
 
 client = InferenceHTTPClient(
     api_url="https://serverless.roboflow.com",
-    api_key="MoJ4Nxt02ceghI7mAyab"
+    api_key="*************************"
 )
 
 # Run the workflow
