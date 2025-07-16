@@ -81,7 +81,6 @@ RoboFlow/
     ├── Deployments_Workflow.png
     ├── Model.png
     ├── Model_API.py
-    ├── Model_API_Code.png
     ├── Model_API_Result.png
     ├── Model_Eval.png
     └── Test.jpg
